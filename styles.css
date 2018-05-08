@@ -1,0 +1,295 @@
+/* MAIN MENU */
+nav, main {
+    display: inline-block;
+    vertical-align: top; 
+}
+
+main {
+    width: 645px;
+}
+
+/* BODY */
+body {
+    background-color: black;
+}
+
+article {
+    padding: 15px;
+    display: none;
+    min-height: 524px;
+    /* width: 545px; */
+    border: 10px solid #31eac6;
+    border-radius: 20px;
+    color: #31eac6;
+    background-color: black;
+}
+
+article.active {
+    display: block;
+}
+
+#wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+#mainMenu {
+    width: 250px;
+    margin: 0;
+    padding: 0;
+    margin-left: 0px;
+    margin-top: 0;
+}
+
+ul.main-menu {
+    margin: 0;
+    padding: 0;
+}
+
+ul.main-menu li:hover {
+    background-color: white;
+}
+
+li.main-item {
+    list-style: none;
+    height: 30px;
+    width: 198px;
+    margin-bottom: 2px;
+    margin-bottom: 2px;
+    padding: 10px 16px;
+    border: 10px solid #31eac6;
+    border-radius: 15px;
+    transition: all .1s ease-out; /*desacerela a transição*/
+    background-color: black;
+}
+
+li.main-item:hover {
+    transform: scale(1.1) rotate(-5deg);
+    text-transform: uppercase;
+}
+
+li.main-item a {
+    display: block;
+    text-decoration: none;
+    color: #221e1e;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #31eac6;
+}
+
+#home {
+    text-align: center;
+    background: url(https://i.pinimg.com/736x/9c/ef/28/9cef285d9acbab1c0fa7cfe09d93228a--science-fiction-art-retro-futurism.jpg) no-repeat cover;
+    background-position:  center center; 
+}
+
+#hello {
+   margin-top: 150px;
+}
+
+#myEmail {
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: gray;
+    padding: 15px;
+    text-align: center;
+    color: black;
+    background-color: #31eac6;
+    margin-top: 100px;
+}
+
+#menuSocial {
+    margin-top: 100px;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+
+.li-social {
+    list-style: none;
+    display: inline;
+    
+}
+
+.li-social a {
+    text-decoration: none;
+    padding: .2em 1em;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 20px 20px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-github {
+  background: white;
+  color: black;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* PROFESSIONAL EXPERIENCE */
+#professional {
+
+}
+
+#professionalTitle {
+    text-align: center;
+    color: darkgrey;
+    text-transform: uppercase;
+    border-top: 15px solid #31eac6;
+    border-bottom: 15px solid #31eac6;
+}
+
+.professional-title {
+    list-style: none;
+    color: #31eac6;
+    text-transform: uppercase;
+}
+
+/* SKILLS */
+#skills {
+  
+}
+
+#skillsTitle {
+    text-align: center;
+    color: darkgrey;
+    text-transform: uppercase;
+    border-top: 15px solid #31eac6;
+    border-bottom: 15px solid #31eac6;
+}
+
+.skills-title {
+    list-style: none;
+    color: #31eac6;
+    text-transform: uppercase;
+}
+
+.skills {
+    list-style: none;
+    color: darkgrey;
+}
+
+/* LANGUAGES */
+#languages {
+    
+}
+
+#languagesTitle {
+    text-align: center;
+    color: darkgrey;
+    text-transform: uppercase;
+    border-top: 15px solid #31eac6;
+    border-bottom: 15px solid #31eac6;
+}
+
+.languages {
+    list-style: none;
+    color: #31eac6;
+    text-transform: uppercase; 
+}
+
+li {
+    list-style: none;
+    color: darkgrey;
+}
+
+/* EDUCATION */
+#education {
+    
+}
+
+#educationTitle {
+    text-align: center;
+    color: darkgrey;
+    text-transform: uppercase;
+    border-top: 15px solid #31eac6;
+    border-bottom: 15px solid #31eac6;
+}
+
+.education {
+    list-style: none;
+    color: #31eac6;
+    text-transform: uppercase;
+}
+
+/* INTERNATIONAL EXPERIENCE */
+#international {
+    
+}
+
+#internationalTitle {
+    text-align: center;
+    color: darkgrey;
+    border-top: 15px solid #31eac6;
+    border-bottom: 15px solid #31eac6;
+    text-transform: uppercase;
+} 
+
+.international {
+    list-style: none;
+    color: #31eac6;
+    text-transform: uppercase;
+}
+
+
+/* COUNTRIES AND CITIES WHERE I HAVE BEEN */
+#countries {
+    column-count: 2;
+}
+
+#countriesTitle {
+    text-align: center;
+    color: darkgrey;
+    border-top: 15px solid #31eac6;
+    border-bottom: 15px solid #31eac6;
+    text-transform: uppercase;
+}
+
+.countries {
+    list-style: none;
+    color: #31eac6;
+    text-transform: uppercase;
+}
+
+
+/* HOBBIES */
+#hobbies {
+    
+}
+
+#hobbiesTitle {
+    text-align: center;
+    color: darkgrey;
+    border-top: 15px solid #31eac6;
+    border-bottom: 15px solid #31eac6;
+    text-transform: uppercase;
+}
+
+.hobbies {
+    list-style: none;
+    color: #31eac6;
+    text-transform: uppercase;
+}
+
