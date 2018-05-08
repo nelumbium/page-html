@@ -48,7 +48,7 @@ ul.main-menu {
 }
 
 ul.main-menu li:hover {
-    background-color: white;
+    background-color: #ffad99;
 }
 
 li.main-item {
@@ -72,14 +72,14 @@ li.main-item:hover {
 li.main-item a {
     display: block;
     text-decoration: none;
-    color: #221e1e;
+    color: black;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: black;
 }
 
 #home {
     text-align: center;
+    color: black;
     background: url(https://i.pinimg.com/736x/9c/ef/28/9cef285d9acbab1c0fa7cfe09d93228a--science-fiction-art-retro-futurism.jpg) no-repeat cover;
     background-position:  center center; 
 }
@@ -155,7 +155,7 @@ li.main-item a {
 
 #professionalTitle {
     text-align: center;
-    color: black;
+    color: darkgrey;
     text-transform: uppercase;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
@@ -163,7 +163,7 @@ li.main-item a {
 
 .professional-title {
     list-style: none;
-    color: black;
+    color: darkgrey;
     text-transform: uppercase;
 }
 
@@ -174,7 +174,7 @@ li.main-item a {
 
 #skillsTitle {
     text-align: center;
-    color: black;
+    color: darkgrey;
     text-transform: uppercase;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
@@ -182,13 +182,13 @@ li.main-item a {
 
 .skills-title {
     list-style: none;
-    color: black;
+    color: darkgrey;
     text-transform: uppercase;
 }
 
 .skills {
     list-style: none;
-    color: darkgrey;
+    color: black;
 }
 
 /* LANGUAGES */
@@ -198,7 +198,7 @@ li.main-item a {
 
 #languagesTitle {
     text-align: center;
-    color: black;
+    color: darkgrey;
     text-transform: uppercase;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
@@ -206,13 +206,13 @@ li.main-item a {
 
 .languages {
     list-style: none;
-    color: black;
+    color: darkgrey;
     text-transform: uppercase; 
 }
 
 li {
     list-style: none;
-    color: darkgrey;
+    color: black;
 }
 
 /* EDUCATION */
@@ -222,7 +222,7 @@ li {
 
 #educationTitle {
     text-align: center;
-    color: black;
+    color: darkgrey;
     text-transform: uppercase;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
@@ -230,7 +230,7 @@ li {
 
 .education {
     list-style: none;
-    color: black;
+    color: darkgrey;
     text-transform: uppercase;
 }
 
@@ -241,7 +241,7 @@ li {
 
 #internationalTitle {
     text-align: center;
-    color: black;
+    color: darkgrey;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
     text-transform: uppercase;
@@ -249,7 +249,7 @@ li {
 
 .international {
     list-style: none;
-    color: black;
+    color: darkgrey;
     text-transform: uppercase;
 }
 
@@ -261,7 +261,7 @@ li {
 
 #countriesTitle {
     text-align: center;
-    color: black;
+    color: darkgrey;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
     text-transform: uppercase;
@@ -269,7 +269,7 @@ li {
 
 .countries {
     list-style: none;
-    color: black;
+    color: darkgrey;
     text-transform: uppercase;
 }
 
@@ -281,7 +281,7 @@ li {
 
 #hobbiesTitle {
     text-align: center;
-    color: black;
+    color: darkgrey;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
     text-transform: uppercase;
@@ -289,7 +289,7 @@ li {
 
 .hobbies {
     list-style: none;
-    color: black;
+    color: darkgrey;
     text-transform: uppercase;
 }
 
