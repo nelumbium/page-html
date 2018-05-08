@@ -18,10 +18,10 @@ article {
     display: none;
     min-height: 524px;
     /* width: 545px; */
-    border: 10px solid #31eac6;
+    border: 10px solid black;
     border-radius: 20px;
     color: #31eac6;
-    background-color: black;
+    background-color: #990000;
 }
 
 article.active {
@@ -48,7 +48,7 @@ ul.main-menu {
 }
 
 ul.main-menu li:hover {
-    background-color: white;
+    background-color: black;
 }
 
 li.main-item {
@@ -58,10 +58,10 @@ li.main-item {
     margin-bottom: 2px;
     margin-bottom: 2px;
     padding: 10px 16px;
-    border: 10px solid #31eac6;
+    border: 10px solid black;
     border-radius: 15px;
     transition: all .1s ease-out; /*desacerela a transição*/
-    background-color: black;
+    background-color: #990000;
 }
 
 li.main-item:hover {
@@ -75,7 +75,7 @@ li.main-item a {
     color: #221e1e;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: #31eac6;
+    color: #990000;
 }
 
 #home {
@@ -94,8 +94,8 @@ li.main-item a {
     background-color: gray;
     padding: 15px;
     text-align: center;
-    color: black;
-    background-color: #31eac6;
+    color: #990000;
+    background-color: black;
     margin-top: 100px;
 }
 
@@ -157,8 +157,8 @@ li.main-item a {
     text-align: center;
     color: darkgrey;
     text-transform: uppercase;
-    border-top: 15px solid #31eac6;
-    border-bottom: 15px solid #31eac6;
+    border-top: 15px solid black;
+    border-bottom: 15px solid black;
 }
 
 .professional-title {
