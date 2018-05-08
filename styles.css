@@ -20,7 +20,7 @@ article {
     /* width: 545px; */
     border: 10px solid black;
     border-radius: 20px;
-    color: #31eac6;
+    color: black;
     background-color: #990000;
 }
 
@@ -48,7 +48,7 @@ ul.main-menu {
 }
 
 ul.main-menu li:hover {
-    background-color: black;
+    background-color: white;
 }
 
 li.main-item {
@@ -75,7 +75,7 @@ li.main-item a {
     color: #221e1e;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: #990000;
+    color: black;
 }
 
 #home {
@@ -126,7 +126,7 @@ li.main-item a {
   text-align: center;
   text-decoration: none;
   margin: 20px 20px;
-  border-radius: 50%;
+  border-radius: 25%;
 }
 
 .fa:hover {
@@ -155,7 +155,7 @@ li.main-item a {
 
 #professionalTitle {
     text-align: center;
-    color: darkgrey;
+    color: black;
     text-transform: uppercase;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
@@ -163,7 +163,7 @@ li.main-item a {
 
 .professional-title {
     list-style: none;
-    color: #31eac6;
+    color: black;
     text-transform: uppercase;
 }
 
@@ -174,15 +174,15 @@ li.main-item a {
 
 #skillsTitle {
     text-align: center;
-    color: darkgrey;
+    color: black;
     text-transform: uppercase;
-    border-top: 15px solid #31eac6;
-    border-bottom: 15px solid #31eac6;
+    border-top: 15px solid black;
+    border-bottom: 15px solid black;
 }
 
 .skills-title {
     list-style: none;
-    color: #31eac6;
+    color: black;
     text-transform: uppercase;
 }
 
@@ -198,15 +198,15 @@ li.main-item a {
 
 #languagesTitle {
     text-align: center;
-    color: darkgrey;
+    color: black;
     text-transform: uppercase;
-    border-top: 15px solid #31eac6;
-    border-bottom: 15px solid #31eac6;
+    border-top: 15px solid black;
+    border-bottom: 15px solid black;
 }
 
 .languages {
     list-style: none;
-    color: #31eac6;
+    color: black;
     text-transform: uppercase; 
 }
 
@@ -222,15 +222,15 @@ li {
 
 #educationTitle {
     text-align: center;
-    color: darkgrey;
+    color: black;
     text-transform: uppercase;
-    border-top: 15px solid #31eac6;
-    border-bottom: 15px solid #31eac6;
+    border-top: 15px solid black;
+    border-bottom: 15px solid black;
 }
 
 .education {
     list-style: none;
-    color: #31eac6;
+    color: black;
     text-transform: uppercase;
 }
 
@@ -241,15 +241,15 @@ li {
 
 #internationalTitle {
     text-align: center;
-    color: darkgrey;
-    border-top: 15px solid #31eac6;
-    border-bottom: 15px solid #31eac6;
+    color: black;
+    border-top: 15px solid black;
+    border-bottom: 15px solid black;
     text-transform: uppercase;
 } 
 
 .international {
     list-style: none;
-    color: #31eac6;
+    color: black;
     text-transform: uppercase;
 }
 
@@ -261,15 +261,15 @@ li {
 
 #countriesTitle {
     text-align: center;
-    color: darkgrey;
-    border-top: 15px solid #31eac6;
-    border-bottom: 15px solid #31eac6;
+    color: black;
+    border-top: 15px solid black;
+    border-bottom: 15px solid black;
     text-transform: uppercase;
 }
 
 .countries {
     list-style: none;
-    color: #31eac6;
+    color: black;
     text-transform: uppercase;
 }
 
@@ -281,15 +281,15 @@ li {
 
 #hobbiesTitle {
     text-align: center;
-    color: darkgrey;
-    border-top: 15px solid #31eac6;
-    border-bottom: 15px solid #31eac6;
+    color: black;
+    border-top: 15px solid black;
+    border-bottom: 15px solid black;
     text-transform: uppercase;
 }
 
 .hobbies {
     list-style: none;
-    color: #31eac6;
+    color: black;
     text-transform: uppercase;
 }
 
