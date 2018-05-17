@@ -154,7 +154,7 @@ li.main-item a {
 
 #professionalTitle {
     text-align: center;
-    color: darkgrey;
+    color: #ffffff;
     text-transform: uppercase;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
@@ -162,7 +162,7 @@ li.main-item a {
 
 .professional-title {
     list-style: none;
-    color: darkgrey;
+    color: #ffffff;
     text-transform: uppercase;
 }
 
@@ -173,7 +173,7 @@ li.main-item a {
 
 #skillsTitle {
     text-align: center;
-    color: darkgrey;
+    color: #ffffff;
     text-transform: uppercase;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
@@ -181,7 +181,7 @@ li.main-item a {
 
 .skills-title {
     list-style: none;
-    color: darkgrey;
+    color: #ffffff;
     text-transform: uppercase;
 }
 
@@ -197,7 +197,7 @@ li.main-item a {
 
 #languagesTitle {
     text-align: center;
-    color: darkgrey;
+    color: #ffffff;
     text-transform: uppercase;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
@@ -205,7 +205,7 @@ li.main-item a {
 
 .languages {
     list-style: none;
-    color: darkgrey;
+    color: #ffffff;
     text-transform: uppercase; 
 }
 
@@ -221,7 +221,7 @@ li {
 
 #educationTitle {
     text-align: center;
-    color: darkgrey;
+    color: #ffffff;
     text-transform: uppercase;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
@@ -229,7 +229,7 @@ li {
 
 .education {
     list-style: none;
-    color: darkgrey;
+    color: #ffffff;
     text-transform: uppercase;
 }
 
@@ -240,7 +240,7 @@ li {
 
 #internationalTitle {
     text-align: center;
-    color: darkgrey;
+    color: #ffffff;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
     text-transform: uppercase;
@@ -248,7 +248,7 @@ li {
 
 .international {
     list-style: none;
-    color: darkgrey;
+    color: #ffffff;
     text-transform: uppercase;
 }
 
@@ -260,7 +260,7 @@ li {
 
 #countriesTitle {
     text-align: center;
-    color: darkgrey;
+    color: #ffffff;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
     text-transform: uppercase;
@@ -268,7 +268,7 @@ li {
 
 .countries {
     list-style: none;
-    color: darkgrey;
+    color: #ffffff;
     text-transform: uppercase;
 }
 
@@ -280,7 +280,7 @@ li {
 
 #hobbiesTitle {
     text-align: center;
-    color: darkgrey;
+    color: #ffffff;
     border-top: 15px solid black;
     border-bottom: 15px solid black;
     text-transform: uppercase;
@@ -288,7 +288,7 @@ li {
 
 .hobbies {
     list-style: none;
-    color: darkgrey;
+    color: #ffffff;
     text-transform: uppercase;
 }
 
