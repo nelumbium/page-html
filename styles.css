@@ -45,6 +45,7 @@ article.active {
 ul.main-menu {
     margin: 0;
     padding: 0;
+    color: #ffffff;
 }
 
 ul.main-menu li:hover {
