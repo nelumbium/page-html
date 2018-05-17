@@ -64,11 +64,13 @@ li.main-item {
     border-radius: 15px;
     transition: all .1s ease-out; /*desacerela a transição*/
     background-color: #990000;
+    color: #ffffff;
 }
 
 li.main-item:hover {
     transform: scale(1.1) rotate(-5deg);
     text-transform: uppercase;
+    color: #000000;
 }
 
 li.main-item a {
