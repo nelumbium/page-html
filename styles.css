@@ -18,9 +18,9 @@ article {
     display: none;
     min-height: 524px;
     /* width: 545px; */
-    border: 10px solid black;
+    border: 2px solid black;
     border-radius: 20px;
-    color: black;
+    color: #ffffff;
     background-color: #990000;
 }
 
@@ -48,7 +48,8 @@ ul.main-menu {
 }
 
 ul.main-menu li:hover {
-    background-color: #ffad99;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 li.main-item {
@@ -58,7 +59,7 @@ li.main-item {
     margin-bottom: 2px;
     margin-bottom: 2px;
     padding: 10px 16px;
-    border: 10px solid black;
+    border: 2px solid black;
     border-radius: 15px;
     transition: all .1s ease-out; /*desacerela a transição*/
     background-color: #990000;
@@ -89,7 +90,7 @@ li.main-item a {
 }
 
 #myEmail {
-    border: 5px solid black;
+    border: 2px solid black;
     border-radius: 15px;
     padding: 15px;
     text-align: center;
