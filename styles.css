@@ -45,12 +45,10 @@ article.active {
 ul.main-menu {
     margin: 0;
     padding: 0;
-    color: #ffffff;
 }
 
 ul.main-menu li:hover {
     background-color: #ffffff;
-    color: #000000;
 }
 
 li.main-item {
@@ -64,26 +62,25 @@ li.main-item {
     border-radius: 15px;
     transition: all .1s ease-out; /*desacerela a transição*/
     background-color: #990000;
-    color: #ffffff;
+    color: #000000;
 }
 
 li.main-item:hover {
     transform: scale(1.1) rotate(-5deg);
     text-transform: uppercase;
-    color: #000000;
 }
 
 li.main-item a {
     display: block;
     text-decoration: none;
-    color: #ffffff;
+    color: #000000;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
 #home {
     text-align: center;
-    color: black;
+    color: #000000;
     background: url(https://i.pinimg.com/736x/9c/ef/28/9cef285d9acbab1c0fa7cfe09d93228a--science-fiction-art-retro-futurism.jpg) no-repeat cover;
     background-position:  center center; 
 }
